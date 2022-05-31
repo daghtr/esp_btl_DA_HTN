@@ -1,0 +1,8 @@
+http://ip/get
+
+hết buổi 6
+Bài 1. Nối DHT11 và hiển thị real value
+Bài 2. Bật tắt 2 led từ webserver
+
+hết buổi 7
+Bài 1. Lấy dữ liệu thật của dht đẩy lên đồ thị
